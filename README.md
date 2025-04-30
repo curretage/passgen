@@ -22,4 +22,4 @@ This script is a basic tool written in Python that helps you create secure and r
 
 •   Simple command-line interface.
 
-# was created using ai
+# was created with the help of
